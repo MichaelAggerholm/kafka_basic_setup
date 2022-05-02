@@ -596,9 +596,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/michael/Documents/projekter/kafka/kafka_school_project/consumer.csproj",
-      "projectName": "consumer",
-      "projectPath": "/home/michael/Documents/projekter/kafka/kafka_school_project/consumer.csproj",
+      "projectUniqueName": "/home/michael/Documents/projekter/kafka/kafka_school_project/producer.csproj",
+      "projectName": "producer",
+      "projectPath": "/home/michael/Documents/projekter/kafka/kafka_school_project/producer.csproj",
       "packagesPath": "/home/michael/.nuget/packages/",
       "outputPath": "/home/michael/Documents/projekter/kafka/kafka_school_project/obj/",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VvvOJuV26ydelBAeZjj/U2aI1CxfrA1Z/MJXRUgXhydv4msTmZjlwbhrf3aYpTq+d4Fb/8X61XcylEN1W60mCg==",
+  "dgSpecHash": "UDTAUuoLRSuKT9deP004uPW4GKaRIuwSdG4IQx4pWNTFkbMsN7Dw9fo9lnhPDiDS08mnCmiDPuVyFbI0ubSAcg==",
   "success": true,
-  "projectFilePath": "/home/michael/Documents/projekter/kafka/kafka_school_project/consumer.csproj",
+  "projectFilePath": "/home/michael/Documents/projekter/kafka/kafka_school_project/producer.csproj",
   "expectedPackageFiles": [
     "/home/michael/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
     "/home/michael/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",

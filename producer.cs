@@ -15,8 +15,8 @@ class Producer {
 
         const string topic = "purchases";
 
-        string[] users = { "eabara", "jsmith", "sgarcia", "jbernard", "htanaka", "awalther" };
-        string[] items = { "book", "alarm clock", "t-shirts", "gift card", "batteries" };
+        string[] users = { "eabard", "jsmithd", "sgarciad", "jbernardd", "htanakad", "awaltherd" };
+        string[] items = { "bookd", "alarm clockd", "t-shirtsd", "gift cardd", "batteriesd" };
 
         using (var producer = new ProducerBuilder<string, string>(
             configuration.AsEnumerable()).Build())
